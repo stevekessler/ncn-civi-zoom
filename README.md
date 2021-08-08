@@ -72,7 +72,7 @@ More details [here](https://docs.civicrm.org/sysadmin/en/latest/customize/extens
 * Along with that you also need to enter the 'Base url' in the same settings page. Note the Base URL should be set to https://api.zoom.us/v2 if the extension doesn't automatically set it.
 ![Screenshot of add common zoom settings](images/add-common-zoom-settings.jpg)
 
-* Navigate  to the zoom sync data settings as **Administer >> Zoom Settings >> Zoom Data Sync Settings**.
+* Navigate  to the zoom sync data settings as ** Events >> Zoom Settings**.
 * This page shows the list  of fields available in the zoom api for a Meeting or a Webinar.
 * You can select the fields you wanted to sync with the civicrm participants and save it. These selected fields are created as custom fields under the custom group 'Zoom Data Sync' against particpants.
 
